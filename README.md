@@ -8,7 +8,7 @@
 
 ## 🌟 Overview
 
-**The Seven | Vought International** is a stunning, interactive web portal showcasing Vought International's premier superhero team. Built with modern web technologies, this application delivers an immersive experience featuring Earth's most powerful heroes, their cinematic universe, and Vought's entertainment empire.
+**The Seven ** is a stunning, interactive web portal showcasing Vought International's premier superhero team. Built with modern web technologies, this application delivers an immersive experience featuring Earth's most powerful heroes, their cinematic universe, and Vought's entertainment empire.
 
 Experience the power, glory, and legacy of The Seven through dynamic animations, responsive design, and cutting-edge UI/UX that brings the world of superheroes to life.
 
